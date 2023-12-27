@@ -1,8 +1,8 @@
 # Hey
 
-### Programador de Software Jr 
-
-- Web desing🎨
-- Web development 💻
+### Un poco de mi 👾
+- Chill 😴
+- Diseño Web 🎨
+- Desarrollo web 💻
 - UI/UX 👨🏼‍💻
 
