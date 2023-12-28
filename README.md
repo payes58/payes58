@@ -6,7 +6,7 @@
 - Colaborativo 👥.
 - Siempre aprendiendo 📖.
 
-### Áreas de interes 👓
+## Áreas de interes 👓
 - Diseño Web 🎨.
 - Desarrollo Web 💻.
 - UI/UX 👨🏼‍💻.
